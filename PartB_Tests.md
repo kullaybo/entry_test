@@ -4,7 +4,7 @@
 
 ---
 
-## 🏗️ Test Scenario 1: SkillsMarketplace
+## Test Scenario 1: SkillsMarketplace
 **Target:** `SkillsMarketplace.sol`
 
 ### 1.1 Happy Path
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎰 Test Scenario 2: SecureLottery
+## Test Scenario 2: SecureLottery
 **Target:** `SecureLottery.sol`
 
 ### 2.1 Happy Path
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Coverage Assessment
+## Coverage Assessment
 After implementing your tests in `test/`, assess your coverage:
 1. **Link to test files:** (e.g., `test/SkillsMarketplace.test.js`)
 2. **Key functions tested:**

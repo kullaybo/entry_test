@@ -26,6 +26,7 @@
 - **[Ethernaut](https://ethernaut.openzeppelin.com/)** - Security-focused challenges
 - **[Chainlink Learning](https://chain.link/education-hub)** - Smart contract tutorials
 - **[Alchemy University](https://university.alchemy.com/)** - Free blockchain courses
+- **[Cyfrin Updraft](https://updraft.cyfrin.io/)** - Smart contract security & development platform
 
 ---
 
@@ -51,9 +52,7 @@
 ### Testing & Deployment
 
 - **[Hardhat](https://hardhat.org/)** - Ethereum development environment
-- **[Truffle Suite](https://trufflesuite.com/)** - Smart contract framework
 - **[Foundry](https://book.getfoundry.sh/)** - Fast Solidity testing framework
-- **[Ganache](https://trufflesuite.com/ganache/)** - Personal blockchain for testing
 
 ### Analysis Tools
 

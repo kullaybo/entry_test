@@ -1,20 +1,20 @@
-# 🚀 Blockchain Developer Entry Test (3-Hour Challenge)
+# Blockchain Developer Entry Test (3-Hour Challenge)
 
 Welcome to the entry test! You have **3 hours** to complete the entire assessment. 
 
 > [!IMPORTANT]
-> You must complete **BOTH** Version 1 (Skills Marketplace) and Version 2 (Secure Lottery) for all parts of this assessment.
+> You must complete **BOTH** PART 1 (Skills Marketplace) and PART 2 (Secure Lottery) for all parts of this assessment.
 
 ---
 
-## ⏱️ Timeline & Submission
+## Timeline & Submission
 
 - **Duration:** 3 Hours
 - **Submission:** Fork this repo, commit regularly (every 15-30 mins), and push to your fork.
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Ensure you have:
 - **Node.js** (v20+) & **npm**
@@ -24,7 +24,7 @@ Ensure you have:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Fork & Clone
 1. **Fork** this repository to your own namespace.
@@ -46,7 +46,7 @@ npx hardhat
 
 ---
 
-## 🛠️ Assessment Structure
+## Assessment Structure
 
 ### Part A: MCQ & Theory (`PartA_MCQ_Answers.md`)
 - Answer **ALL** questions for **BOTH** Version 1 and Version 2.
@@ -67,7 +67,7 @@ You are provided with two contract skeletons in `contracts/`:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 blockchain_dev_entry_test/
@@ -83,7 +83,7 @@ blockchain_dev_entry_test/
 
 ---
 
-## 💡 Tips for Success
+## Tips for Success
 - **Security Matters:** We check for Reentrancy, Access Control, and Integer Handling.
 - **Gas is Money:** Mention gas optimization strategies in your design document.
 - **Commit History:** We look at your commit frequency to understand your workflow.

@@ -5,7 +5,7 @@
 
 ---
 
-## 🏗️ WHY I BUILT IT THIS WAY
+## WHY I BUILT IT THIS WAY
 
 ### 1. Data Structure Choices
 **Explain your design decisions for BOTH contracts:**

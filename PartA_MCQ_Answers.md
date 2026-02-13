@@ -5,11 +5,11 @@
 ---
 
 ## Instructions
-**COMPLETE ALL QUESTIONS FOR BOTH VERSION 1 AND VERSION 2 BELOW**
+**COMPLETE ALL QUESTIONS FOR BOTH PART 1 AND PART 2 BELOW**
 
 ---
 
-## VERSION 1: Agricultural Marketplace (Real-World African Context)
+## PART 1: Agricultural Marketplace (Real-World African Context)
 
 **Scenario:** You are hired as a blockchain developer to build a decentralised agricultural marketplace for African farmers. The platform must:
 
@@ -83,7 +83,7 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 
 ---
 
-## VERSION 2: DeFi & NFT Integration (Advanced Concepts)
+## PART 2: DeFi & NFT Integration (Advanced Concepts)
 
 **Scenario:** A DeFi protocol experiences the following sequence of events:
 
@@ -117,10 +117,10 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 
 ## SUBMISSION CHECKLIST
 
-- You answered all questions for **BOTH Version 1 AND Version 2**  
+- You answered all questions for **BOTH PART 1 AND PART 2**  
 - Your answers include reasoning (not just A/B/C/D)  
-- For Version 1 Q2: You showed your gas cost calculations  
-- For Version 2: You addressed all three concept areas (AMM, Governance, Token Standards)  
+- For PART 1 Q2: You showed your gas cost calculations  
+- For PART 2: You addressed all three concept areas (AMM, Governance, Token Standards)  
 - You committed and pushed to GitLab  
 
 ---

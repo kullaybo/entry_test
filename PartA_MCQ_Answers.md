@@ -32,7 +32,7 @@
 **Your Answer:** [B]  
 
 **Your Reasoning:**  
-[2–3 sentences explaining why you chose this answer. What makes it the best choice?]  
+[It is the best choice because ERC-1155 is gas efficient for batching agricultural produce, and integrating with a DEX like Uniswap meets the requirement to enable buyers to swap tokens. Also using onchain mappings for reputation ensures the data is transparent and portable, unlike a centralized database which defeats the purpose of Web3.]  
 
 ---
 
@@ -53,16 +53,17 @@ A farmer wants to list 50 bags of maize. Gas costs are:
 - **C)** They cost exactly the same  
 - **D)** ERC-1155 is cheaper by approximately $54  
 
-**Your Answer:** [A/B/C/D]  
+**Your Answer:** [D]  
 
 **Your Calculation/Reasoning:**  
-- ERC-721 cost = [Show calculation]
-- ERC-1155 cost = [Show calculation]
-- Difference = [Show calculation]
+- ERC-721 cost = [50 items * 100,000 gas = 5,000,000 gas]
+- ERC-1155 cost = [150,000 (first) + (49 * 5,000) = 395,000 gas]
+- Difference = [5,000,000 gas - 395,000 = 4,605,000 gas]
 
 
-[Explain why gas optimisation matters for African users]  
+[It is critical in Africa where users may have limited capital. Therefore,saving $200+ on a transaction makes the difference between a viable product and an unusable one.]
 
+Note: I think there's discrepancy in small batch size calculation. I can't put it in words but my math did not math properly.
 ---
 
 ### Question 3: Value Proposition Explanation (Communication & Thinking)
@@ -76,10 +77,10 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 - **C)** "Because smart contracts are more secure than databases and Web3 is decentralised."  
 - **D)** "Blockchain uses cryptography which makes it unhackable, unlike normal databases."  
 
-**Your Answer:** [A/B/C/D]  
+**Your Answer:** [B]  
 
 **Your Explanation:**  
-[2–3 sentences explaining what makes this answer correct. What did you learn about why blockchain matters in Africa?]  
+[It addresses the user's actual pain points, trust and portability. It highlights immutable proof for payment disputes and reputation portability, which provides tangible business value to the farmer beyond just technology.]  
 
 ---
 
@@ -103,9 +104,10 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 - **C)** The liquidity provider experiences impermanent loss because the pool maintains a constant product rather than constant ratio. ERC-721 would be more suitable than ERC-1155 for the NFT marketplace since individual NFTs require unique transactions.  
 - **D)** The constant product formula prevents any impermanent loss by automatically rebalancing. DAOs cannot implement financial protections due to smart contract immutability. ERC-1155 tokens are incompatible with standard DEX protocols.  
 
-**Your Answer:** [A/B/C/D]  
+**Your Answer:** [B]  
 
-**Your Reasoning:**  
+**Your Reasoning:**
+[] 
 
 - **AMM Mathematics:** How do you calculate the swap output? What happens to the liquidity provider's value?  
 - **DeFi Governance:** What is impermanent loss and how does protection work?  

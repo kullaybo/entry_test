@@ -132,4 +132,4 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 
 ---
 
-**Challenges faced:** [I think provided resources makes it easy for us to understand the concept and answer MCQ seamlessly. However in Q1 I had difficulties providing an answer as I get different out come compared to the proved ones ?]
+**Challenges faced:** [I think provided resources makes it easy for us to understand the concept and answer MCQ seamlessly. However in Q1 I had difficulties providing an answer as I get different out come compared to the proved ones. I was part of Banki Dev team https://bankii.finance/en/ also I am currently working on an enterprise project to allow university student to start uterlizing crypto on a daily basis]

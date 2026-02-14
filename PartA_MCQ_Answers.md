@@ -95,6 +95,7 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 
 ---
 
+
 ### Question: Multi-Concept Synthesis
 
 **Which statement correctly combines understanding of AMMs, governance, and technical implementation?**
@@ -113,7 +114,11 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 - **DeFi Governance:** What is impermanent loss and how does protection work?  
 - **Token Standards:** Why might ERC-1155 be preferred over ERC-721 for marketplace integration?  
 
-[2–3 sentences synthesising these concepts into a coherent explanation]  
+[**AMM Mathematics:** In a constant product pool ($x \times y = k$), if ETH (x) increases, USDC (y) must decrease. $12 \times y = 200,000 \rightarrow y \approx 16,666$. The trader gets $20,000 - 16,666 = 3,333$.
+
+**DeFi Governance:** Impermanent loss occurs when the ratio of assets changes. Hemce, protection schemes compensate LPs for this divergence.
+
+**Token Standards:** ERC-1155 is preferred for marketplaces interacting with DEXs because its batch transfer capability reduces gas costs compared to looping through ERC-721 transfers.]  
 
 ---
 
@@ -127,4 +132,4 @@ A farmer asks: *"Why can't we just use a normal website with a database?"*
 
 ---
 
-**Challenges faced:** [What was difficult? Which concepts are you less confident about?]  
+**Challenges faced:** [I think provided resources makes it easy for us to understand the concept and answer MCQ seamlessly. However in Q1 I had difficulties providing an answer as I get different out come compared to the proved ones ?]
